@@ -1,4 +1,4 @@
-# Sparse Annoration Segmentation
+# Sparse Annotation Segmentation
 Semantic Segmentation Using Deep Learning Methods with Sparse Annotation
 
 
