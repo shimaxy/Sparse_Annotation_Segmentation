@@ -2,8 +2,9 @@
 
 In this repository, we share the source code of our paper "Segmenting Skin 
 Biopsy Images with Coarse and Sparse Annotations using U-Net" SUbmitted to the 
-Special Issue on Image Analysis in Dermatology 2021. Abstract below:
- 
+Special Issue on Image Analysis in Dermatology 2021. 
+
+Abstract: 
 "The number of melanoma diagnoses has increased dramatically over the past three decades, 
 outpacing almost all other cancers. Nearly 1 in 4 skin biopsies are of melanocytic lesions, 
 highlighting the clinical and public health importance of correct diagnosis. 
