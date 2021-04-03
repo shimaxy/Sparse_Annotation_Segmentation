@@ -1,5 +1,3 @@
-# Coarse and Sparse Annotations for Segmentation
-
 # Segmenting Skin Biopsy Images with Coarse and Sparse Annotations using U-Net
 
 In this repository, we share the source code of our paper "Segmenting Skin 
