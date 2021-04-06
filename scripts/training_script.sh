@@ -5,7 +5,6 @@ cd ./model
 
 python3 main.py \
 --txt_folder "/projects/patho1/sparse_segmentation/dataset/txt_files/stage_1/" \
---use_gpu True --gpu_id 0 \
 --epochs 1000 \
 --encoder "resnet34" \
 --act_fcn "softmax2d" \
