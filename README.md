@@ -1,7 +1,7 @@
 # Segmenting Skin Biopsy Images with Coarse and Sparse Annotations using U-Net
 
 In this repository, we share the source code of our paper "Segmenting Skin 
-Biopsy Images with Coarse and Sparse Annotations using U-Net" SUbmitted to the 
+Biopsy Images with Coarse and Sparse Annotations using U-Net" Submitted to the 
 Special Issue on Image Analysis in Dermatology 2021. 
 
 Abstract: 
