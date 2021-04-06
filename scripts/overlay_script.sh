@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
 
-
+cd ..
+cd ./postprocessing
 
 
 python3 overlay.py \
