@@ -1,5 +1,8 @@
 #!/usr/bin/env bash
 
+cd..
+cd ./postprocessing
+
 
 python3 plot_preds.py \
 --txt_folder "/projects/patho1/sparse_segmentation/dataset/txt_files/stage_1/" \
